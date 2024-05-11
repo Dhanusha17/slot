@@ -1,6 +1,5 @@
 # Ex03 Time Table
 ## Date:22-03-2024
-
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -31,9 +30,7 @@ Execute the program using runserver command.
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Slot Timetable</title>
-    
   </head>
-
   <body>
     <center>
     <img
@@ -50,7 +47,6 @@ Execute the program using runserver command.
         <th bgcolor="skyblue">Friday</th>
         <th bgcolor="skyblue">Saturday</th>
       </tr>
-      
         <tr align="center">
         <td bgcolor="lavender">8-10</td>
         <td bgcolor="pink">FWAD</td>
@@ -145,12 +141,9 @@ Execute the program using runserver command.
   </body>
 </html>
 ```
-
 ## OUTPUT
 ![Screenshot 2024-03-22 154954](https://github.com/Dhanusha17/slot/assets/151549957/12e6d750-5eb7-4769-ba0b-6c9b6dea570b)
 ![Screenshot 2024-03-22 154001](https://github.com/Dhanusha17/slot/assets/151549957/cb4ccf42-198f-4f68-a640-e661e4a456d6)
 ![Screenshot 2024-03-22 155253](https://github.com/Dhanusha17/slot/assets/151549957/9f577fb9-f80d-49f0-94e0-54812b37fec4)
-
-
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
